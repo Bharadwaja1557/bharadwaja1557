@@ -1,17 +1,17 @@
 <div id="header" align="center">
-  <img src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/privateinvestocat.png" width="200"/>
+  <img src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/banner.jpg" width="100%"/>
 </div>
-<h1 align="center">Hi👋, I'm Bharadwaj</h1>
-<h3 align="center">A passionate Cyber security enthusiast trying to make a Change!!</h3>
+<h1 align="center">Hi there👋, I'm Bharadwaja</h1>
+<h3 align="center">Just an ML enthusiast trying to get better!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajamavilla&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajamavilla" /></p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharadwajamavilla" alt="bharadwajamavilla" /></a> </p>
 -->
 
-- 🔭 I’m currently working on  **Web application Pentesting**
+<!-- - 🔭 I’m currently working on  **Web application Pentesting**
 
-- 🌱 I’m currently learning  **OWASP10**
+- 🌱 I’m currently learning  **Neural Networks**
 
 - 👯 I’m looking to collaborate on  **any open source projects**
 
@@ -19,8 +19,10 @@
 
 - ⚡ Fun fact:  **By the time you read this, 1557 cyber attacks took place**
 
+-->
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages and Tools : </h3>
 <p align="center" >
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -42,9 +44,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
-
-<br>
-<br>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -72,27 +71,24 @@
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 <p align="center">
   
 <a href="www.linkedin.com/in/bharadwaj1557" target="blank">
-<img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-linkedin.svg" alt="bharadwaj1557" height="40" width="40" />
+<img align="center" src="https://github.com/bharadwaja1557/bharadwaja1557/blob/main/icons/icons8-linkedin.svg" alt="bharadwaj1557" height="40" width="40" />
 </a>
 
+<!--
 <a href="https://instagram.com/bharadwaj.offline" target="blank">
 <img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-instagram.svg" alt="bharadwaj.offline" height="40" width="40" /></a>
 
 <a href="https://www.hackerrank.com/bharadwaja1557" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharadwaja1557" height="40" width="40" />
 </a>
+-->
 
 </p>
 
-</br>
-
-<h3 align="left">Here are my stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharadwajamavilla&theme=github_dark&show_icons=true&locale=en" alt="bharadwajamavilla" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharadwajamavilla&theme=github-dark-blue&show_icons=true" alt="bharadwajamavilla" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharadwajamavilla&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="bharadwajamavilla" /></p>
+<h3 align="left">Top Langs : </h3>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharadwaja1557&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="bharadwaja1557" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaja1557&theme=github_dark&show_icons=true&locale=en&layout=donut" alt="bharadwaja1557" /></p>
