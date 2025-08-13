@@ -1,6 +1,8 @@
+<!--
 <div id="header" align="center">
   <img src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/banner.jpg" width="100%"/>
 </div>
+-->
 <h1 align="center">Hi there👋, I'm Bharadwaja</h1>
 <h3 align="center">Just a computer science student trying to get better!!</h3>
 
