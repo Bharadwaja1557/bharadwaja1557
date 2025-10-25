@@ -76,7 +76,7 @@
 <h3 align="left">Connect with me : </h3>
 <p align="center">
   
-<a href="www.linkedin.com/in/bharadwaja1557" target="blank">
+<a href="https://www.linkedin.com/in/bharadwaja1557/" target="_blank">
 <img align="center" src="https://github.com/bharadwaja1557/bharadwaja1557/blob/main/icons/icons8-linkedin.svg" alt="bharadwaj1557" height="40" width="40" />
 </a>
 
