@@ -18,9 +18,9 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
   <img width="35" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
-  <img width="35" />
+  <img width="50" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
-  <img width="35" />
+  <img width="50" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="tensorflow logo"  />
   <img width="35" />
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="pytorch logo"  />
