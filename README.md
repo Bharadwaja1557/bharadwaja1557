@@ -1,96 +1,59 @@
-<!--
-<div id="header" align="center">
-  <img src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/banner.jpg" width="100%"/>
+<h1 align="center">Hi 👋🏻, I'm Bharadwaja</h1>
+
+<p align="center">Just a computer science student trying to get better!!</p>
+<br>
+<div align="center">
+  <img src="https://count.getloli.com/@:bharadwaja1557?theme=3d-num&padding=7&offset=10&scale=0.75&align=center&pixelated=1&darkmode=auto"  />
 </div>
--->
-<h1 align="center">Hi there👋, I'm Bharadwaja</h1>
-<h3 align="center">Just a computer science student trying to get better!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajamavilla&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajamavilla" /></p>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharadwajamavilla" alt="bharadwajamavilla" /></a> </p>
--->
+<h2 align="center">Tech Stack</h2>
 
-<!-- - 🔭 I’m currently working on  **Web application Pentesting**
+<br clear="both">
 
-- 🌱 I’m currently learning  **Neural Networks**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="35" />
+  <img src="https://skillicons.dev/icons?i=c" height="45" alt="c logo"  />
+  <img width="35" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="bash logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="git logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="tensorflow logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="pytorch logo"  />
+  <img width="35" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="docker logo"  />
+  <img width="35" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="45" alt="flutter logo"  />
+  <img width="35" />
+  <br><br>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="html5 logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="45" alt="css logo"  />
+  <img width="35" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="react logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="mongodb logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
+</div>
 
-- 👯 I’m looking to collaborate on  **any open source projects**
+<br clear="both">
 
-- 💬 Ask me about  **Cybersecurity, Bug bounty, Pentesting**
+<h2 align="center">Socials</h2>
 
-- ⚡ Fun fact:  **By the time you read this, 1557 cyber attacks took place**
-
--->
-
-
-<h3 align="left">Languages and Tools : </h3>
-<p align="center" >
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-    
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-    
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-bash.svg" alt="bash" width="40" height="40"/>
-</a>
-    
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-</p>
-
-<h3 align="left">Connect with me : </h3>
-<p align="center">
-  
-<a href="https://www.linkedin.com/in/bharadwaja1557/" target="_blank">
-<img align="center" src="https://github.com/bharadwaja1557/bharadwaja1557/blob/main/icons/icons8-linkedin.svg" alt="bharadwaj1557" height="40" width="40" />
-</a>
-
-<!--
-<a href="https://instagram.com/bharadwaj.offline" target="blank">
-<img align="center" src="https://github.com/bharadwajamavilla/bharadwajamavilla/blob/main/icons/icons8-instagram.svg" alt="bharadwaj.offline" height="40" width="40" /></a>
-
-<a href="https://www.hackerrank.com/bharadwaja1557" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharadwaja1557" height="40" width="40" />
-</a>
--->
-
-</p>
-
-<h3 align="left">Top Langs : </h3>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharadwaja1557&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="bharadwaja1557" /></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaja1557&theme=github_dark&show_icons=true&locale=en&layout=donut" alt="bharadwaja1557" /></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="40" alt="medium logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="40" alt="telegram logo"  />
+</div>
