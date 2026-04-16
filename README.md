@@ -1,61 +1,75 @@
-<h1 align="center">Hi 👋🏻, I'm Bharadwaja</h1>
-
-<p align="center">Just a computer science student trying to get better!!</p>
-
-<br>
-
-<div align="center">
-  <img 
-    src="https://count.getloli.com/@:bharadwaja1557?theme=3d-num&padding=7&offset=10&scale=0.75&align=center&pixelated=1&darkmode=auto"
-  />
-</div>
+<h1 align="center">Hi, I'm Bharadwaja</h1>
 
 
-<h2 align="center">Tech Stack</h2>
+<img align="right" src="./icons/doom.gif" width="260"/>
 
-<div align="center" >
-  <!-- First Row -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
-  <img src="https://skillicons.dev/icons?i=c" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="45" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="45" />
-  <br><br>
-  <!-- Second Row -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" />
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="45" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" />
-</div>
+&nbsp;&nbsp; 🎓 &nbsp; MTech CSE, IIT Kanpur
+
+&nbsp;&nbsp; 🛠️ &nbsp; Working on VLMs for Robotics
+
+&nbsp;&nbsp; ⚙️ &nbsp; Interested in ML Systems, Distributed Systems
 
 <br>
-
-<h2 align="center">Socials</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bharadwaja1557/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo" />
-  </a>
 
-  <a href="https://medium.com/@bharadwaja1557" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="40" alt="medium logo" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=bharadwaja1557&style=flat&label=views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/mb1557&color=orange&logo=leetcode"/>
+&nbsp;
+<a href="https://wakatime.com/@7e0bf759-2c5a-462b-9b67-c8793b534c5a"><img src="https://wakatime.com/badge/user/7e0bf759-2c5a-462b-9b67-c8793b534c5a.svg" alt="Total time coded since Apr 2 2026" /></a>
 
-  <a href="https://x.com/mb1557" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="40" alt="twitter logo" />
-  </a>
-
-  <a href="https://t.me/mb1557" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="70" height="40" alt="telegram logo" />
-  </a>
 </p>
 
+<br>
+<br>
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-636363?logo=gnubash\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-C36241?logo=rust)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn\&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=nodedotjs\&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)
+
+---
+
+## Quote
+
+> “ That Appears... UNTRUE ”
+> 
+> — Victor Von Doom
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://medium.com/@bharadwaja1557" target="_blank">
+<img src="https://img.shields.io/badge/Medium-000000?logo=medium">
+</a>
+<a href="https://www.linkedin.com/in/bharadwaja1557/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin">
+</a>
+<a href="https://x.com/mb1557" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-000000?logo=x">
+</a>
+<a href="https://t.me/mb1557" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white">
+</a>
+
+</p>
