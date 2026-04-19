@@ -7,7 +7,7 @@
 
 &nbsp;&nbsp; 🛠️ &nbsp; Working on VLMs for Robotics
 
-&nbsp;&nbsp; ⚙️ &nbsp; Interested in ML Systems, Distributed Systems
+&nbsp;&nbsp; ⚙️ &nbsp; Interested in ML, Distributed Systems
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=bharadwaja1557&style=flat&label=views"/>
 &nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/mb1557&color=orange&logo=leetcode"/>
+<!-- <img src="https://img.shields.io/badge/dynamic/json?label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/mb1557&color=orange&logo=leetcode"/> -->
 &nbsp;
 <a href="https://wakatime.com/@7e0bf759-2c5a-462b-9b67-c8793b534c5a"><img src="https://wakatime.com/badge/user/7e0bf759-2c5a-462b-9b67-c8793b534c5a.svg" alt="Total time coded since Apr 2 2026" /></a>
 
