@@ -57,7 +57,7 @@
 
 ## Connect
 
-<p align="center">
+<p align="left">
 
 <a href="https://medium.com/@bharadwaja1557" target="_blank">
 <img src="https://img.shields.io/badge/Medium-000000?logo=medium">
